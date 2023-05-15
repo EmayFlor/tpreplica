@@ -1,0 +1,193 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital@0;1&display=swap');
+
+html{
+    scroll-behavior: smooth;
+}
+.codo{
+    background-color: #373c3c;
+    border-color: #373c3c;
+    background-size: auto;
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.codo .conf{
+    float: left;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    color: rgb(255, 255, 255);
+}
+
+.codo .cac{
+  height: 50px;
+  width: 80px;
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+
+.codo .botones {
+    margin-top: 2%;
+    margin-bottom: 2%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20%;
+    float: right;
+}
+
+.codo .botones .Tickets{
+color: greenyellow;    
+}
+
+.casarosada {
+background-image: url('https://turismo.buenosaires.gob.ar/sites/turismo/files/casa_rosada_1200_fachada_sol_4.jpg');
+opacity: 0.8;
+background-size: cover;
+}
+
+.casarosada .parrafo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: right;
+    font-size:x-large;
+    position: inherit;
+}
+
+.casarosada .botonQ{
+    float: right;
+}
+
+.oradores{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.cuadro{
+    background-color: rgb(255, 255, 255);
+    align-content: center;
+    background-position: center;
+}
+
+.cuadro .lostres .fila .steve .job{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 200px;
+    width: 250px;;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.cuadro .lostres .fila .gates .bill{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 200px;
+    width: 250px;;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.cuadro .lostres .fila .ada .love{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 200px;
+    width: 250px;;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.playa .seccion3{
+    width: 100%;
+}
+
+.playa .seccion3 .agua{
+    width: 100%;
+}
+
+.playa .seccion3 .vaca{
+    background-color: #373c3c;
+    width: 100%;
+    height: 399px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+}
+
+.oradores2{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.codo2{
+    background-color: #152d47;
+    display: flex;
+    justify-content: center;
+    background-size: cover;
+}
+
+.codo2 .botones2 .bot1{
+        background-color: #007bff00;
+        padding: .375rem .75rem;
+        border: 1px solid #0d6bd0;
+        border-radius: .25rem;
+        color: #007bff;
+        transition: color .15s ease-in-out,
+        background-color .15s ease-in-out;
+}
+
+.codo2 .botones2 .bot2{
+    background-color: #007bff00;
+    padding: .375rem .75rem;
+    border: 1px solid #0d6bd0;
+    border-radius: .25rem;
+    color: #007bff;
+    transition: color .15s ease-in-out,
+    background-color .15s ease-in-out;
+}
+
+.codo2 .botones2 .bot3{
+    background-color: #007bff00;
+    padding: .375rem .75rem;
+    border: 1px solid #0d6bd0;
+    border-radius: .25rem;
+    color: #007bff;
+    transition: color .15s ease-in-out,
+    background-color .15s ease-in-out;
+}
+
+.codo2 .botones2 .bot4{
+    background-color: #007bff00;
+    padding: .375rem .75rem;
+    border: 1px solid #0d6bd0;
+    border-radius: .25rem;
+    color: #007bff;
+    transition: color .15s ease-in-out,
+    background-color .15s ease-in-out;
+}
+
+.codo2 .botones2 .bot5{
+    background-color: #007bff00;
+    padding: .375rem .75rem;
+    border: 1px solid #0d6bd0;
+    border-radius: .25rem;
+    color: #007bff;
+    transition: color .15s ease-in-out,
+    background-color .15s ease-in-out;
+}
+
+.codo2 .botones2 .bot6{
+    background-color: #007bff00;
+    padding: .375rem .75rem;
+    border: 1px solid #0d6bd0;
+    border-radius: .25rem;
+    color: #007bff;
+    transition: color .15s ease-in-out,
+    background-color .15s ease-in-out;
+}
+
+.codo2 .botones2 .bot7{
+    background-color: #007bff00;
+    padding: .375rem .75rem;
+    border: 1px solid #0d6bd0;
+    border-radius: .25rem;
+    color: #007bff;
+    transition: color .15s ease-in-out,
+    background-color .15s ease-in-out;
+}
